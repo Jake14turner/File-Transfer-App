@@ -10,8 +10,7 @@ while(count <=1):
         port = 8082
         totalclient = 1
         counter = 0
-#windows 192.168.18.16
-#mac 192.168.18.18
+
     #netstat -ano|findstr 8082
     #taskkill /F /PID 19088
 
