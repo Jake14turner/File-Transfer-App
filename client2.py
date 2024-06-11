@@ -10,8 +10,7 @@ def run_program(file_path, name, file_type):
     file_type1 = file_type
 
 
-#windows 192.168.18.16
-#mac 192.168.18.18
+
     counter = 1
   
     try:
