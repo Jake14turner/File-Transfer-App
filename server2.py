@@ -6,7 +6,7 @@ fileno = 0
 while(count <=1):
 
     if __name__ == '__main__':
-        host = '192.168.18.16'
+        host = '0.0..0.0'
         port = 8082
         totalclient = 1
         counter = 0
